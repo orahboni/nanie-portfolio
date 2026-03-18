@@ -36,7 +36,7 @@ const HeroSection = () => {
                     <Link href="/#contact" onClick={hireMe} className="bg-[#B50094] hover:bg-[#B50094]/30 cursor-pointer transition-colors duration-300 ease-in-out text-[#EEEEEE] py-1 px-4 rounded-full">
                        Hire Me
                     </Link>
-                    <a href="/" download="/"  className="bg-gray-700/20 hover:bg-[#B50094]/30 cursor-pointer transition-colors duration-300 ease-in-out flex gap-1 text-[#EEEEEE] py-1 px-4 rounded-full">
+                    <a href=""  className="bg-gray-700/20 hover:bg-[#B50094]/30 cursor-pointer transition-colors duration-300 ease-in-out flex gap-1 text-[#EEEEEE] py-1 px-4 rounded-full">
                        Download Cv <ImDownload className="size-4 m-auto"/>
                     </a>
                 </div>
